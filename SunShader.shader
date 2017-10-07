@@ -1,10 +1,3 @@
-﻿// Unity built-in shader source. Copyright (c) 2016 Unity Technologies. MIT license (see license.txt)
-
-// Unlit alpha-cutout shader.
-// - no lighting
-// - no lightmap support
-// - no per-material color
-
 Shader "Unlit/SunShader" {
 Properties {
 	_MainTex ("Base (RGB) Trans (A)", 2D) = "white" {}
