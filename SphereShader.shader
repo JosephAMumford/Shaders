@@ -1,4 +1,4 @@
-﻿Shader "Custom/Equirectangular" {
+﻿Shader "Custom/SphereShader" {
 	Properties {
 		_Color ("Main Color", Color) = (1,1,1,1)
 		_MainTex("Diffuse (RGB) Alpha (A)", 2D) = "grey" {}
